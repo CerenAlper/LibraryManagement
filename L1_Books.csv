@@ -1,0 +1,11 @@
+id,title,author,publisher,edition,genre,quantity
+1,Fundamentals of Wavelets,"Goswami, Jaideva",Wiley,11,signal_processing,6
+2,Data Smart,"Foreman, John",Wiley,28,data_science,4
+3,God Created the Integers,"Hawking, Stephen",Penguin,3,mathematics,2
+4,Superfreakonomics,"Dubner, Stephen",HarperCollins,42,economics,3
+5,Orientalism,"Said, Edward",Penguin,2,history,2
+6,"Nature of Statistical Learning Theory, The","Vapnik, Vladimir",Springer,3,data_science,4
+7,Integration of the Indian States,"Menon, V P",Orient Blackswan,15,history,2
+8,"Drunkard's Walk, The","Mlodinow, Leonard",Penguin,4,science,4
+9,Image Processing & Mathematical Morphology,"Shih, Frank",CRC,51,signal_processing,6
+10,How to Think Like Sherlock Holmes,"Konnikova, Maria",Penguin,6,psychology,3

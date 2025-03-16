@@ -1,0 +1,13 @@
+id,title,author,publisher,edition,genre,quantity
+1,"Analysis, Vol I","Tao, Terence",HBA,5,mathematics,6
+2,Machine Learning for Hackers,"Conway, Drew",O'Reilly,6,data_science,8
+3,"Signal and the Noise, The","Silver, Nate",Penguin,74,data_science,6
+4,Python for Data Analysis,"McKinney, Wes",O'Reilly,6,data_science,4
+5,Introduction to Algorithms,"Cormen, Thomas",MIT Press,45,computer_science,8
+6,"Beautiful and the Damned, The","Deb, Siddhartha",Penguin,12,nonfiction,12
+7,"Outsider, The","Camus, Albert",Penguin,3,fiction,5
+8,"Complete Sherlock Holmes, The - Vol I","Doyle, Arthur Conan",Random House,12,fiction,12
+9,"Complete Sherlock Holmes, The - Vol II","Doyle, Arthur Conan",Random House,8,fiction,24
+10,"Wealth of Nations, The","Smith, Adam",Random House,15,economics,5
+11,"Pillars of the Earth, The","Follett, Ken",Random House,2,fiction,3
+12,Mein Kampf,"Hitler, Adolf",Rupa,1,nonfiction,1

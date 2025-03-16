@@ -1,0 +1,12 @@
+id,title,author,publisher,edition,genre,quantity
+1,Data Scientists at Work,Sebastian Gutierrez,Apress,3,data_science,2
+2,Slaughterhouse Five,"Vonnegut, Kurt",Random House,5,fiction,8
+3,Birth of a Theorem,"Villani, Cedric",Bodley Head,6,mathematics,3
+4,Structure & Interpretation of Computer Programs,"Sussman, Gerald",MIT Press,2,computer_science,2
+5,"Age of Wrath, The","Eraly, Abraham",Penguin,2,history,2
+6,"Trial, The","Kafka, Frank",Random House,4,fiction,3
+7,Statistical Decision Theory',"Pratt, John",MIT Press,3,data_science,2
+8,Data Mining Handbook,"Nisbet, Robert",Apress,6,data_science,5
+9,"New Machiavelli, The","Wells, H. G.",Penguin,4,fiction,2
+10,Physics & Philosophy,"Heisenberg, Werner",Penguin,6,science,3
+11,Making Software,"Oram, Andy",O'Reilly,5,computer_science,5
